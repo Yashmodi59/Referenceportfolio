@@ -29,10 +29,10 @@ linkedin_username: yashmodi59
 orcid_username: 0000-0001-9853-434X
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,10 +47,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yash Modi and I'm final year Computer Engineer Student. I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
+  Hi, my name's Yash Modi and I'm currently pursuing Master's in Computer Science at University of Texas at Arlington. I will be graduating in May 2024. I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
   I have also done project in Android Development. Enthusiast for solving real life problem with my coding skill.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Problem Solving</mark> and <mark>Eating Pizza😊</mark>
 
 content:
   - title: Projects # Title for the section
