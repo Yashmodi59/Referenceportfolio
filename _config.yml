@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Yash Modi
-title: Undergraduate Computer Engineer
+title: Graduate Computer Engineer
 email: yashmodi2059@gmail.com
 website: https://yashmodi59.github.io/
 
@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yash Modi and I'm final year Computer Engineer Student. I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
   I have also done project in Android Development. Enthusiast for solving real life problem with my coding skill.
